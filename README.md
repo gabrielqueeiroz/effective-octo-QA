@@ -1,6 +1,6 @@
-# effective-octo-QA
+# Selenium WebAutomation
 
-<h4>My QA stuff:</h4>
+<h4>Scripts:</h4>
 <ul>
   <li><b>correiosCep.py:</b> Selenium script that looks for an address on Correios' website using CEP as parameter.</li>
   <li><b>correiosNome.py:</b> Selenium script that looks for an address on Correios' website using the name of a place as parameter.</li>
